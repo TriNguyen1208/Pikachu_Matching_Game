@@ -1,0 +1,84 @@
+triet
+123
+23clc100
+0:1:44
+270
+
+ductri2005
+ductri123
+23CLC07
+0:1:55
+263
+
+thong nguyen
+23115470
+23CLCA
+0:2:12
+224
+
+Nguyen Duc Tri
+23127541
+23CLC07
+0:1:39
+203
+
+Doan Pham Minh Triet
+23127541
+23CLC07
+0:0:50
+150
+
+f
+f
+f
+0:0:42
+96
+
+gia au
+23117500
+23clc07
+0:2:12
+73
+
+doan pham minh triet
+23127504
+23CLC07
+0:1:41
+67
+
+chi thong
+123456
+23CLC100
+0:1:54
+67
+
+h
+h
+h
+0:0:24
+56
+
+UNKNOWN
+UNKNOWN
+UNKNOWN
+0:0:24
+45
+
+3333
+99999
+44444
+0:0:38
+40
+
+duc tri nguyen
+23127541
+23CLC07
+0:0:12
+10
+
+UNKNOWN
+UNKNOWN
+UNKNOWN
+0:0:1
+0
+
